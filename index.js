@@ -1,6 +1,6 @@
 var path = require("path");
 var express = require("express");
-var botServer = require("./bot");
+// var botServer = require("./bot");
 var app = express();
 
 // app.use(botServer);
